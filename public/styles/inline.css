@@ -36,6 +36,10 @@ html {
   overflow: hidden;
 }
 
+img {
+  width: 100%;
+}
+
 body {
   align-content: stretch;
   align-items: stretch;
