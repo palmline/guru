@@ -48,17 +48,18 @@
   </header>
   <script src="public/scripts/luxon-1.11.4.js" ></script >
   <script src="public/scripts/app.js"></script>
+  <script src="public/service-worker.js"></script>
   <!-- CODELAB: Add the install script here -->
   <script>
-    // CODELAB: Register service worker.
-    if ('serviceWorker' in navigator) {
-      window.addEventListener('load', () => {
-        navigator.serviceWorker.register('public/service-worker.js')
-            .then((reg) => {
-              console.log('Service worker registered.', reg);
-            });
-      });
-    }
+    // // CODELAB: Register service worker.
+    // if ('serviceWorker' in navigator) {
+    //   window.addEventListener('load', () => {
+    //     navigator.serviceWorker.register('public/service-worker.js')
+    //         .then((reg) => {
+    //           console.log('Service worker registered.', reg);
+    //         });
+    //   });
+    // }
   </script>
 
 </body>
