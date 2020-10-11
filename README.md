@@ -62,7 +62,7 @@ If the health line is in yellow colour or find any yellow spot in the line you m
 
 If one red cruel , small line cross the heart line and heart line is in abnormal reddish colour, is the sign of heart trouble. 
 
-If health line is in irregular form you should take care your health with good food, water and exercies. If you are a smoker please control
+If health line is in irregular form you should take care your health with good food, water and exercies. If you are a smoker control
 
 Perfect health line also indicating knowledge, business and wealth.
 
