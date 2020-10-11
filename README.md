@@ -4,7 +4,7 @@ Know your self and future
 
 How to read palm
 
-EDUCATION:
+# EDUCATION:
 
 Especially in education we have to see brain line talent line and fourth finger ( little finger)
 
