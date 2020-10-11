@@ -1,4 +1,4 @@
-# Palmline Reading
+# Palm Reading
 Know your self and future
 ...
 
