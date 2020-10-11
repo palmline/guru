@@ -24,16 +24,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Astro Book PWA</title>
   <meta name="codelab" content="your-first-pwa-v3">
-  <link rel="stylesheet" type="text/css" href="styles/inline.css" >
-  <link rel="favicon" type="text/css" href="styles/inline.css">
+  <link rel="stylesheet" type="text/css" href="public/styles/inline.css" >
+  <link rel="favicon" type="text/css" href="public/styles/inline.css">
 
   <!-- CODELAB: Add link rel manifest -->
-  <link rel="manifest"  src="manifest.json">
+  <link rel="manifest"  src="public/manifest.json">
   <!-- CODELAB: Add iOS meta tags and icons -->
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
   <meta name="apple-mobile-web-app-title" content="Weather PWA">
-  <link rel="apple-touch-icon" href="images/icons/icon-152x152.png">
+  <link rel="apple-touch-icon" href="public/images/icons/icon-152x152.png">
   <!-- CODELAB: Add description here -->
   <meta name="description" content="Sample Astro Book Application">
   <!-- CODELAB: Add meta theme-color -->
@@ -46,14 +46,14 @@
       Astro Book PWA
     </h1 >
   </header>
-  <script src="scripts/luxon-1.11.4.js" ></script >
-  <script src="scripts/app.js"></script>
+  <script src="public/scripts/luxon-1.11.4.js" ></script >
+  <script src="public/scripts/app.js"></script>
   <!-- CODELAB: Add the install script here -->
   <script>
     // CODELAB: Register service worker.
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', () => {
-        navigator.serviceWorker.register('/service-worker.js')
+        navigator.serviceWorker.register('public/service-worker.js')
             .then((reg) => {
               console.log('Service worker registered.', reg);
             });
