@@ -1,74 +1,54 @@
-# Palm Reading
-Know your self and future
-...
+# Your First Progressive Web App Codelab
 
-How to read palm
+These are the resource files needed for the
+[Your First Progressive Web App][codelab] codelab.
 
-# EDUCATION:
+In this codelab, you'll  build a weather web app using Progressive Web App
+techniques. Your app will:
 
-Especially in education we have to see brain line talent line and fourth finger ( little finger) If talent line is clear no matter how long this line without any breakage or black spot, with clear brain line and no shade or spots in fourth finger first phalanx you can study more.
-
-If your first finger first phalenx is straight and beautiful without any shade you will come top in education.
-
-know which subject is suitable for you go to more information.
-
-In Study matter uncutting triangle , untouchable with any line , anywhere specially between heart and brain line is good sign for study matter.
-...
-# FRIENDS
-
-GOOD FRIEND
-NORMAL FRIEND
-BAD FRIEND
-..
-# GOOD FRIEND:
-
-No matter short or long straight clear line at any age near and top portion of heart line that friend is good for your heart. Just keep them.
-
-The same line is near and top of any where in the brain line that friend is good for your study culture development and they will give you peace full mind.
-
-If the line beside and parellel to the life line at any age that friend can support your life.
-
-If the line is near to the faith line that friend can support your fortune and your faith.
-
-If a little or long line near to the talent line that friend upgrade your talent and knowledge at the age even in your exam time also.
-
-If the line is near to the health line that friend can help to build your physical and mental fitness.
-
-In first finger second phalanx if you find one or two plus (+) sign without connecting any other line is also showing a good successful friend.
-
-# NORMAL FRIEND:
-
-Above mentioned friends lines are slightly wavy not expressive any colour and located above mentioned main lines those lines are normal friends line. It means they are not good not bad, just a friend.
-
-# BAD FRIEND:
-
-If the crooked, colorless, or very bad formed line under the heart line or brain line are bad friends, at that age. You must take care from those friends.
-Even those lines formed near chances line, life line, faith line and health line, it will affect badly those main line matters.
+* Use responsive design, so it works on desktop or mobile.
+* Be fast & reliable, using a service worker to precache the app resources
+  (HTML, CSS, JavaScript, images) needed to run, and cache the weather data
+  at runtime to improve performance.
+* Be installable, using a web app manifest and the `beforeinstallprompt` event
+  to notify the user it's installable.
 
 
-...
+## What you'll learn
+
+* How to create and add a web app manifest
+* How to provide a simple offline experience
+* How to provide a full offline experience
+* How to make your app installable
+
+## Getting started
+
+To get started, check out the [codelab instruction][codelab]
 
 
-# HEALTH:
-If the health line complete and perfect you have a good health. If you don’t have health line check out life line and brain line.
+## Feedback
 
-If you have any “island” symbol in line or beside the health line you may suffer from breathing problem, so take care.
+This is a work in progress, if you find a mistake, please [file an issue][git-issue].
 
-If you have any small black spot or island symbol in the brain line you may suffer from migraine or head ache problem, so you need more relaxation.
 
-In health line if you have blue spot you mar suffer from liver troubles. If you don’t have any diebeties problem try more sweet.
+## License
 
-If the health line is in yellow colour or find any yellow spot in the line you may suffer from  yellow fever, so add more iron rich food in your diet.
+Copyright 2019 Google, Inc.
 
-If one red cruel , small line cross the heart line and heart line is in abnormal reddish colour, is the sign of heart trouble. 
+Licensed to the Apache Software Foundation (ASF) under one or more contributor
+license agreements. See the NOTICE file distributed with this work for
+additional information regarding copyright ownership. The ASF licenses this
+file to you under the Apache License, Version 2.0 (the “License”); you may not
+use this file except in compliance with the License. You may obtain a copy of
+the License at
 
-If health line is in irregular form you should take care your health with good food, water and exercies. If you are a smoker control
+http://www.apache.org/licenses/LICENSE-2.0
 
-Perfect health line also indicating knowledge, business and wealth.
+Unless required by applicable law or agreed to in writing, software distributed
+under the License is distributed on an “AS IS” BASIS, WITHOUT WARRANTIES OR
+CONDITIONS OF ANY KIND, either express or implied. See the License for the
+specific language governing permissions and limitations under the License.
 
-At the end of life line if you find any deep spot, in the health line if ou find any irreglar branches you may suffer from stomach pain ulcers, gastrics problem and back pain also. So you need good break fast in early morning.
 
-Health line indicate sight problems also, beside the helath line or at the beginning of heart line if you have black spot or circle formation you may suffer from eye sight problems. So better use
-protection glass.
-
-Health line indicate ENT troubles also. If you have island formation and broken health line it cause ENT problems. If health line is wavy you must take care of your teeth.
+[codelab]: https://codelabs.developers.google.com/codelabs/your-first-pwapp/
+[git-issue]: https://github.com/googlecodelabs/your-first-pwapp/issues
