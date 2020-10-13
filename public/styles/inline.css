@@ -1,7 +1,6 @@
 body, html {
     font-size: large;
     text-align: center;
-    margin: 6px;
 }
 
 html, body {
@@ -15,3 +14,6 @@ img {
     display: block;
     margin 0 auto;
 }
+
+article {
+    margin-bottom: 10px;
