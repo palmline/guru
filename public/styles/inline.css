@@ -5,15 +5,15 @@ body, html {
 
 html, body {
     height: 100%;
-    margin: 0;
+    margin: 6px;
 }
 
 img {
   width: 100%;
   height: auto;
     display: block;
-    margin 0 auto;
+    margin: 0 auto;
 }
 
 article {
-    margin-bottom: 10px;
+    margin-bottom: 20px;
