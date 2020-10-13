@@ -1,1 +1,13 @@
+body, html {
+    font-size: small;
+}
 
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
