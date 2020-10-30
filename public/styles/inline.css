@@ -34,3 +34,9 @@ audio {
  margin-left: auto;
  margin-right:auto;
 }
+
+.displaypicture {
+  display:inline-block;
+  margin-left: auto;
+  margin-right: auto;
+}
