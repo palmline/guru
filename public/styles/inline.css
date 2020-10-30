@@ -36,7 +36,7 @@ audio {
 }
 
 .displaypicture {
-  display:inline-block;
+  display: block;
   margin-left: auto;
   margin-right: auto;
   Width: 149px;
