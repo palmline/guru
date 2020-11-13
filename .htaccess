@@ -1,0 +1,5 @@
+//Rewrite to www
+Options +FollowSymLinks
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^https://palmline.github.io/guru[nc]
+RewriteRule ^(.*)$ http://www.https://palmline.github.io/guru/$1 [r=301,nc]
